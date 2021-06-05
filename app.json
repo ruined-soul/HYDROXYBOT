@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "HYDROXY USERBOT",
+  "description": "HydroxyBot made by @MICKEYOP special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @HgdroxyBot_Support",
+  "logo": "https://telegra.ph/file/a3e47de6992a0c3c26dfa.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/MICKEYOP/HYDROXYBOT/",
+  "website": "https://github.com/MICKEYOP/HYDROXYBOT/",
+  "success_url": "https://t.me/HYDROXYBOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @MICKEYOP. By default it is Hydroxy User",
+      "value": "@HydroxyBot_Support",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .hydroxy Command.",
+      "value": "🔥HYDROXYBOT IS ALIVE🔥",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/a3e47de6992a0c3c26dfa.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "🔥LEGEND'S SAY'S TO HYDROXYBOT🔥",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/a3e47de6992a0c3c26dfa.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -54,12 +54,12 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "-336323518",
+      "value": "-336893718",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": "2747829"
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
@@ -88,23 +88,23 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": "6930b92388byxhjf4cb4a1d377055035"
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-336323518"
+      "value": "-336378518"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001174481876"
+      "value": "-1001174482346"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-336323518"
+      "value": "-336378518"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001174481876"
+       "value": "-1001174482346"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
@@ -112,7 +112,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "22c9f305-3860-48e7-a1e5-457c15480887",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "1445543068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@HYDROXY_PUBLIC_BOT"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
