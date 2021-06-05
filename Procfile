@@ -1,1 +1,2 @@
-worker: bash mafiabot
+worker: bash hydroxybot
+
