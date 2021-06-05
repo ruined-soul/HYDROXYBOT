@@ -42,7 +42,10 @@ HydroxyBot made by @MICKEYOP. Supported by respective hellbot owner @MICKEYOP. J
 
   <summary> • CREDITS👀 • </summary>
 <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+ One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏 
+
+ 
+@H1M4N5HU0P ♥️
 
 </details>
 
